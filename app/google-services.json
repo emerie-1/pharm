@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "97351160967",
+    "firebase_url": "https://pharm-b8a8c.firebaseio.com",
+    "project_id": "pharm-b8a8c",
+    "storage_bucket": "pharm-b8a8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97351160967:android:8d0685f27f9cdd90fdd422",
+        "android_client_info": {
+          "package_name": "com.umedic.pharm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97351160967-8sqg9nsamvlfo406bjdjeajh099nsoc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.umedic.pharm",
+            "certificate_hash": "16ef501178dc82b1671cf20596553f3baea147e7"
+          }
+        },
+        {
+          "client_id": "97351160967-4jcpm4ifa0te13nsjjkkaio05cuc5fbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaon6BmbHQpv5GvbruvkBNxJ1LtqNKbK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97351160967-4jcpm4ifa0te13nsjjkkaio05cuc5fbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
